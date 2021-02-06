@@ -3,16 +3,12 @@
 
 A project to refactor existing HTML and CSS code to better optimize for accessibility.
 
-This project aims to better my understanding of:
+This project aims to:
 - Evaluating existing code
-- Implementing and following SEO standards for accessibility
+- Implement and follow SEO standards for accessibility using semantics
 - Finding methods to refactor code to be more lightweight while preserving functionality
-- Develop a consideration for code optimization in future projects
 
-Secondary goals:
-- Hone documentation skills
-- Increase familiarity using GIT and Github for projects
-- Develop and strengthen best-practice behaviors for projects and utilizing repositories
+In the course of this project, I've honed my skills on formatting for clear readability, documenting portions of code with comments, and considering methods for optimizing code. GIT and Github were also powerful tools utilized in managing and deploying this project in the live space.
 
 ## Deployment
 To view the deployed and current project: https://accoon.github.io/Bootcamp-Horiseon-Refactor/
