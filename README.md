@@ -23,6 +23,4 @@ To view the deployed and current project: https://accoon.github.io/Bootcamp-Hori
 ![third screenshot](./assets/images/screenshot-3.png)
 
 ## Sources
-My repository: https://github.com/ACCoon/Bootcamp-Homework-Search-Optimize
-
 Original code source: https://unchar.bootcampcontent.com/The-Coding-Bootcamp/uncc-virt-fsf-ft-02-2021-u-c/tree/master/01-HTML-Git-CSS/02-Homework
